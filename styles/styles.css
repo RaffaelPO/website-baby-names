@@ -19,6 +19,11 @@ a {
     color: #f05349;
 }
 
+.author-name {
+    color: #f05349;
+    font-weight: bold;
+}
+
 .footer {
     background: #f4f4f4;
     text-align: center;
